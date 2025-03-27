@@ -50,8 +50,3 @@ monthly sales trends, order performance, and sales drivers.
   <li>Open the analysis file in Google Sheets.</li>
   <li>Explore the findings on the <strong>Overview</strong> sheet.</li>
 </ol>
-
-<h2>👋🏻 Connect with Me</h2>
-<p>
-  <a href="#">LinkedIn</a> | <a href="#">GitHub</a> | <a href="#">Portfolio</a>
-</p>

@@ -6,7 +6,7 @@ This project analyzes sales data from the AdventureWorks dataset, following a st
 approach to uncover key business insights related to sales trends, order performance, and sales drivers.
 </p>
 
-<h2>🔎 1. Ask - Defining the Business Problem</h2>
+<h2>🔎 Defining the Business Problem</h2>
 <p>
 To support data-driven decision-making, this analysis explores key business questions:
 </p>
@@ -19,7 +19,7 @@ To support data-driven decision-making, this analysis explores key business ques
   <li>What are the primary reasons customers make purchases?</li>
 </ul>
 
-<h2>📂 2. Prepare - Understanding the Dataset</h2>
+<h2>📂 Understanding the Dataset</h2>
 <p>
 The analysis is based on sales transaction data from AdventureWorks, with key datasets including:
 </p>
@@ -30,7 +30,7 @@ The analysis is based on sales transaction data from AdventureWorks, with key da
   <li><strong>Sales Territory</strong> - Geographic sales data</li>
 </ul>
 
-<h2>🛠️ 3. Process - Data Cleaning & Transformation</h2>
+<h2>🛠️ Data Cleaning & Transformation</h2>
 <p>
 To ensure accurate analysis, the following data preparation techniques were applied:
 </p>
@@ -41,7 +41,7 @@ To ensure accurate analysis, the following data preparation techniques were appl
   <li>Applied conditional formatting to highlight key trends</li>
 </ul>
 
-<h2>📊 4. Analyze - Key Insights</h2>
+<h2>📊 Key Insights</h2>
 <ul>
   <li><strong>Seasonal Sales Trends:</strong> Q1, especially January, is the weakest period for revenue, while Q3 (August and May) sees peak performance. This highlights opportunities for seasonal promotions or demand forecasting adjustments.</li>
   <li><strong>Regional Performance Disparities:</strong> The US generates the highest sales, while Germany underperforms. Additionally, Australia leads in online orders, whereas Northeast, Central, and Southeast regions show little online activity. This suggests potential market expansion or strategy adjustments.</li>
@@ -49,7 +49,7 @@ To ensure accurate analysis, the following data preparation techniques were appl
   <li><strong>Delivery Efficiency & Logistics Challenges:</strong> 99.97% of orders are delivered within 7 days, but Germany experiences longer delivery times. Addressing logistics in this region could enhance customer satisfaction and reduce delays.</li>
 </ul>
 
-<h2>📢 5. Share - Data Visualization & Presentation</h2>
+<h2>📢 Data Visualization & Presentation</h2>
 <p>
 Key trends and insights were presented using:
 </p>
@@ -62,7 +62,7 @@ Key trends and insights were presented using:
 Visuals and reports are available in the <strong>visuals</strong> folder.
 </p>
 
-<h2>🚀 6. Act - Business Recommendations</h2>
+<h2>🚀 Business Recommendations</h2>
 <ul>
   <li>Optimize pricing strategies based on seasonal demand fluctuations</li>
   <li>Investigate logistics challenges in Germany to improve delivery efficiency</li>

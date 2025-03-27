@@ -1,5 +1,3 @@
-# spreadsheet-sales-analysis
-
 <h1>📊 Sales Analysis - AdventureWorks</h1>
 
 <p><strong>Project Overview</strong></p>

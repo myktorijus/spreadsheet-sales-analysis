@@ -26,10 +26,10 @@ monthly sales trends, order performance, and sales drivers.
 
 <h2>📊 Key Insights</h2>
 <ul>
-  <li>Seasonal Sales Trends: Q1, especially January, is the weakest period for revenue, while Q3 (August and May) sees peak performance. This highlights opportunities for seasonal promotions or demand forecasting adjustments.</li>
-  <li>Regional Performance Disparities: The US generates the highest sales, while Germany underperforms. Additionally, Australia leads in online orders, whereas Northeast, Central, and Southeast regions show little online activity. This suggests potential market expansion or strategy adjustments.</li>
-  <li>Sales Drivers & Customer Behavior: "Price" is the strongest motivator for purchases, driving the most revenue, while "Television Advertisement" has minimal impact. This insight can inform pricing strategies and marketing budget allocation.</li>
-  <li>Delivery Efficiency & Logistics Challenges: 99.97% of orders are delivered within 7 days, but Germany experiences longer delivery times. Addressing logistics in this region could enhance customer satisfaction and reduce delays.</li>
+  <li><strong>Seasonal Sales Trends:</strong> Q1, especially January, is the weakest period for revenue, while Q3 (August and May) sees peak performance. This highlights opportunities for seasonal promotions or demand forecasting adjustments.</li>
+  <li><strong>Regional Performance Disparities:</strong> The US generates the highest sales, while Germany underperforms. Additionally, Australia leads in online orders, whereas Northeast, Central, and Southeast regions show little online activity. This suggests potential market expansion or strategy adjustments.</li>
+  <li><strong>Sales Drivers & Customer Behavior:</strong> "Price" is the strongest motivator for purchases, driving the most revenue, while "Television Advertisement" has minimal impact. This insight can inform pricing strategies and marketing budget allocation.</li>
+  <li><strong>Delivery Efficiency & Logistics Challenges:</strong> 99.97% of orders are delivered within 7 days, but Germany experiences longer delivery times. Addressing logistics in this region could enhance customer satisfaction and reduce delays.</li>
 </ul>
 
 <h2>🛠️ Tools & Techniques</h2>
@@ -43,10 +43,3 @@ monthly sales trends, order performance, and sales drivers.
 
 <h2>📸 Visuals</h2>
 <p>Key charts and dashboards are stored in the <strong>visuals</strong> folder.</p>
-
-<h2>🚀 How to Use</h2>
-<ol>
-  <li>Download the dataset from the <strong>data</strong> folder.</li>
-  <li>Open the analysis file in Google Sheets.</li>
-  <li>Explore the findings on the <strong>Overview</strong> sheet.</li>
-</ol>

@@ -26,10 +26,10 @@ monthly sales trends, order performance, and sales drivers.
 
 <h2>📊 Key Insights</h2>
 <ul>
-  <li>Sales have shown an increasing trend over time.</li>
-  <li>Online orders contribute significantly to total revenue.</li>
-  <li>Shipping delays impact certain regions more than others.</li>
-  <li>Top-performing salespeople drive the majority of revenue.</li>
+  <li>Seasonal Sales Trends: Q1, especially January, is the weakest period for revenue, while Q3 (August and May) sees peak performance. This highlights opportunities for seasonal promotions or demand forecasting adjustments.</li>
+  <li>Regional Performance Disparities: The US generates the highest sales, while Germany underperforms. Additionally, Australia leads in online orders, whereas Northeast, Central, and Southeast regions show little online activity. This suggests potential market expansion or strategy adjustments.</li>
+  <li>Sales Drivers & Customer Behavior: "Price" is the strongest motivator for purchases, driving the most revenue, while "Television Advertisement" has minimal impact. This insight can inform pricing strategies and marketing budget allocation.</li>
+  <li>Delivery Efficiency & Logistics Challenges: 99.97% of orders are delivered within 7 days, but Germany experiences longer delivery times. Addressing logistics in this region could enhance customer satisfaction and reduce delays.</li>
 </ul>
 
 <h2>🛠️ Tools & Techniques</h2>

@@ -7,8 +7,8 @@ A spreadsheet-based analysis project using the AdventureWorks dataset to explore
 <h2>Contents</h2>
 <ul>
   <li><code>/data</code> - Data in csv format</li>
-  <li><code>/report</code> - Charts and visuals</li>
-  <li>Insights and recommendations</li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1d_5QTp3Cjo1cbLOzU_EateC9w52yNp6M0RoS3TblcOs/edit?usp=sharing">Sales Analysis in Google Sheet</li>
+  <strong>Note: It takes some time to load!</strong></li>
 </ul>
 
 <h2>Summary</h2>

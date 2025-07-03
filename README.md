@@ -34,5 +34,5 @@ This project analyzes sales data across regions, channels, and time to answer ke
 <h2>Tools Used</h2>
 <ul>
   <li>Google Sheets</li>
-  <li><strong>Data:</strong> Sales Order Header, Employee, Sales Territory, Sales Reason</li>
+  <li>Data: Sales Order Header, Employee, Sales Territory, Sales Reason</li>
 </ul>
